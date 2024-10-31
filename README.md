@@ -8,7 +8,7 @@
 
 <p>Landing page</p>
 
-![landig-landscaping-website](https://github.com/user-attachments/assets/58a8fe96-c6d7-4581-adbc-340ef025d4b2)
+![mobile-view-landscaping-website](https://github.com/user-attachments/assets/8de360d3-c893-4813-b64d-0151318d2dec)
 
 <p>Mobile view</p>
 
@@ -16,7 +16,7 @@
 
 <p>Mobile view menu</p>
 
-![mobile-view-navigation-landscaping-website](https://github.com/user-attachments/assets/c0bb5011-b3b3-4a38-b0f3-cff4b1af05e4)
+![mobile-view-navigation-landscaping-website](https://github.com/user-attachments/assets/49dc3f3d-7268-4b5e-8841-3ff98326bc31)
 
 <p>Contact form</p>
 
