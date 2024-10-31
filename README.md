@@ -1,54 +1,27 @@
-# Astro Starter Kit: Basics
+<h1>Landscaping Business Website with Headless CMS</h1>
 
-```sh
-npm create astro@latest -- --template basics
-```
+<h2>Description</h2>
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+<p>Developed a platform for a landscaping business that emphasizes a clean and modern user interface while prioritizing a user-friendly experience. The platform allows the client to easily update and manage website content through a headless CMS, providing them with flexibility and control over their online presence.</p>
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+<h2>Design and Structure</h2>
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+<p>Landing page</p>
 
-## 🚀 Project Structure
+![landig-landscaping-website](https://github.com/user-attachments/assets/58a8fe96-c6d7-4581-adbc-340ef025d4b2)
 
-Inside of your Astro project, you'll see the following folders and files:
+<p>Mobile view</p>
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+![mobile-view-landscaping-website](https://github.com/user-attachments/assets/3ddd5203-2332-4cf2-a4ca-b7a5fdaa016f)
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+<p>Mobile view menu</p>
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+![mobile-view-navigation-landscaping-website](https://github.com/user-attachments/assets/c0bb5011-b3b3-4a38-b0f3-cff4b1af05e4)
 
-Any static assets, like images, can be placed in the `public/` directory.
+<p>Contact form</p>
 
-## 🧞 Commands
+![Contact-Landscaping-Website](https://github.com/user-attachments/assets/b00627e0-ec27-46c8-a6ad-ccd6f438085f)
 
-All commands are run from the root of the project, from a terminal:
+<p>Admin Page</p>
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+![Admin-Landscaping-Website](https://github.com/user-attachments/assets/86c9f241-7ce7-4fe9-ac7f-be5f7bf58d95)
