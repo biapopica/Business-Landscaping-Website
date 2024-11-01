@@ -4,6 +4,8 @@
 
 <p>Developed a platform for a landscaping business that emphasizes a clean and modern user interface while prioritizing a user-friendly experience. The platform allows the client to easily update and manage website content through a headless CMS, providing them with flexibility and control over their online presence.</p>
 
+[Website link](https://remarkable-youtiao-a10fa9.netlify.app/)
+
 <h2>Design and Structure</h2>
 
 <p>Landing page</p>
